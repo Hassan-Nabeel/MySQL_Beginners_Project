@@ -4,7 +4,9 @@ The README file contains the description of the following projects:
 <br>
 1.Car Dekho Analysis:
 <br>
-•	Created a database car and read all the data, total number of cars. Write the query for cars available in a particular year, range of years, and printed details of the car over a given year.
+•	Created a database car and read all the data with total number of cars. 
+<br>
+• Write the query for cars available in a particular year, range of years, and printed details of the car over a given year.
 <br>
 •	Created a dashboard as per the requirement of the client and the manager.
 <br>
