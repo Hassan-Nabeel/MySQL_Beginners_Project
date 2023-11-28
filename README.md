@@ -1,5 +1,6 @@
 # MySQL_Beginners_Project
-The README file contains the description of the following project:
+The README file contains the description of the following projects:
+<br>
 <br>
 1.Car Dekho Analysis:
 <br>
