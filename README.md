@@ -1,13 +1,13 @@
 # MySQL_Beginners_Project
 The README file contains the description of the following project:
 <br>
-1.Car Dekho Analysis:
+1. Car Dekho Analysis:
 <br>
 •	Created a database car and read all the data, total number of cars. Write the query for cars available in a particular year, range of years, and printed details of the car over a given year.
 <br>
 •	Created a dashboard in accordance with the client and manager's requirements.
 <br>
-Music Store Analysis:
+2. Music Store Analysis:
 <br>
 •	Created a database music store and read all the data. Analyse data set with respect to requirements such as countries that have the most invoices, Cities with the best customers, and declaring the best customer who spent the highest money.
 <br>
