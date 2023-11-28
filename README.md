@@ -8,7 +8,7 @@ The README file contains the description of the following projects:
 <br>
 • Write the query for cars available in a particular year, range of years, and printed details of the car over a given year.
 <br>
-•	Created a dashboard as per the requirement of the client and the manager.
+•	Created a dashboard as per the requirements of the client and the manager.
 <br>
 <br>
 2. Music Store Analysis:
