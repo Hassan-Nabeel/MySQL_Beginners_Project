@@ -2,7 +2,10 @@ Car Dekho Analysis: Second Hand Car Dealer
 This project aims to explore the Car Dekho to understand top-performing cars, and sales trends of different types of cars with year, fuel, and owner type. 
 The aim is to study how sales strategies can be improved and optimized.
 
-Questions: 
+- Purpose of the project:
+
+
+- Questions: 
 1.	Read Cars data
 2.	Total Cars: To get a count of total records
 3.	The manager asked the employee How many cars will be available in 2023?
