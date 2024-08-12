@@ -13,7 +13,7 @@ The README file contains the description of the following projects:
 - The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
   
 - Purposes Of The Project:
-- The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
+  - The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 - Analysis List:
   1.	Product Analysis -
   Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
@@ -31,7 +31,7 @@ write the query for the particular type of music listeners, artists who have wri
 Perform standard operating procedures for the data analysis process.
 
 - Purpose of the project:
-1. SQL project to analyze online music store data
-2. This project is for beginners and will teach you how to analyze the music playlist database. 
-3. We can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+  1. SQL project to analyze online music store data
+  2. This project is for beginners and will teach you how to analyze the music playlist database. 
+  3. We can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
 
