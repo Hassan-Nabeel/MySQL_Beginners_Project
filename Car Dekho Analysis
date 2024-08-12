@@ -1,0 +1,16 @@
+Car Dekho Analysis: Second Hand Car Dealer
+This project aims to explore the Car Dekho to understand top-performing cars, and sales trends of different types of cars with year, fuel, and owner type. 
+The aim is to study how sales strategies can be improved and optimized.
+
+Questions: 
+1.	Read Cars data
+2.	Total Cars: To get a count of total records
+3.	The manager asked the employee How many cars will be available in 2023?
+4.	The manager asked the employee How many cars is available in
+5.	Clint asked me to print the total of all cars by year. I don't see all the details.
+6.	Clint asked to car dealer agent How many diesel cars will there be in 2020?
+7.	The manager told the employee to give a print All the fuel cars (petrol, diesel, and CNG) come by all year.
+8.	Manager said there were more than 100 cars in a given year, which year had more than 100 cars? I
+9.	The manager said to the employee All cars count details between 2015 and 2023; we need a complete list.
+10.	The manager said to the employee All cars details between 2015 to 2023 we need complete list
+
