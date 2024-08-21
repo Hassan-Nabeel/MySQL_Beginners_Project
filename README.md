@@ -12,9 +12,9 @@ The README file contains the description of the following projects:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Walmart Sales Data Analysis
-This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour.
-The aims is to study how sales strategies can be improved and optimized.
-The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
+- This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour.
+- The aims is to study how sales strategies can be improved and optimized.
+- The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
   
 - Purposes Of The Project:
   - The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
@@ -30,9 +30,9 @@ The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3. Music Store Analysis
-Created a database music store and read all the data. Analyse data set with respect to requirements such as countries that have the most invoices, Cities with the best customers, and declaring the best customer who spent the highest money.
-write the query for the particular type of music listeners, artists who have written a particular type of music, and return tracks that have song lengths longer than the average length.
-Perform standard operating procedures for the data analysis process.
+- Created a database music store and read all the data. Analyse data set with respect to requirements such as countries that have the most invoices, Cities with the best customers, and declaring the best customer who spent the highest money.
+- write the query for the particular type of music listeners, artists who have written a particular type of music, and return tracks that have song lengths longer than the average length.
+- Perform standard operating procedures for the data analysis process.
 
 - Purpose of the project:
   1. SQL project to analyze online music store data
