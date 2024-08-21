@@ -1,7 +1,7 @@
 # MySQL_Beginners_Project
 The README file contains the description of the following projects:
 
-1. Car Dekho Analysis: Second Hand Car Dealer
+## 1. Car Dekho Analysis: Second Hand Car Dealer
 - This project aims to explore the Car Dekho to understand top-performing cars, and sales trends of different types of cars with year, fuel, and owner type.
 - The aim is to study how sales strategies can be improved and optimized.
 
@@ -11,7 +11,7 @@ The README file contains the description of the following projects:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. Walmart Sales Data Analysis
+## 2. Walmart Sales Data Analysis
 - This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour.
 - The aims is to study how sales strategies can be improved and optimized.
 - The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
@@ -30,7 +30,7 @@ The README file contains the description of the following projects:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3. Music Store Analysis
+## 3. Music Store Analysis
 - Created a database music store and read all the data. Analyse data set with respect to requirements such as countries that have the most invoices, Cities with the best customers, and declaring the best customer who spent the highest money.
 - write the query for the particular type of music listeners, artists who have written a particular type of music, and return tracks that have song lengths longer than the average length.
 - Perform standard operating procedures for the data analysis process.
