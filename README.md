@@ -5,7 +5,7 @@ The README file contains the description of the following projects:
 - This project aims to explore the Car Dekho to understand top-performing cars, and sales trends of different types of cars with year, fuel, and owner type.
 - The aim is to study how sales strategies can be improved and optimized.
 
-- Purpose of the project:
+  Purpose of the project:
   - The major aim of thie project is to gain insight into the sales data of Car Dekho to understand the different factors that affect sales of the different cars with respect to year.
 
 
@@ -16,7 +16,7 @@ The README file contains the description of the following projects:
 - The aims is to study how sales strategies can be improved and optimized.
 - The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
   
-- Purposes Of The Project:
+  Purposes Of The Project:
   - The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
   
   Analysis List:
@@ -35,7 +35,7 @@ The README file contains the description of the following projects:
 - write the query for the particular type of music listeners, artists who have written a particular type of music, and return tracks that have song lengths longer than the average length.
 - Perform standard operating procedures for the data analysis process.
 
-- Purpose of the project:
+  Purpose of the project:
   1. SQL project to analyze online music store data
   2. This project is for beginners and will teach you how to analyze the music playlist database. 
   3. We can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
